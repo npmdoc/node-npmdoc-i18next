@@ -1,0 +1,47 @@
+<svg height="702" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="702" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-04 18:15:38 +0000   405094 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-04 18:15:38 +0000    21647 byte  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-04 18:15:38 +0000     1074 byte  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-04 18:15:38 +0000     2658 byte  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-04 18:15:38 +0000    12035 byte  dist/commonjs/BackendConnector.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-04 18:15:38 +0000     4043 byte  dist/commonjs/CacheConnector.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-04 18:15:38 +0000     1654 byte  dist/commonjs/EventEmitter.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-04 18:15:38 +0000     6423 byte  dist/commonjs/Interpolator.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-04 18:15:38 +0000     4779 byte  dist/commonjs/LanguageUtils.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-04 18:15:38 +0000     6835 byte  dist/commonjs/PluralResolver.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-04 18:15:38 +0000     6012 byte  dist/commonjs/ResourceStore.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-04 18:15:38 +0000    13617 byte  dist/commonjs/Translator.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-04 18:15:38 +0000     4983 byte  dist/commonjs/compatibility/v1.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-04 18:15:38 +0000     2716 byte  dist/commonjs/defaults.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-04 18:15:38 +0000    14597 byte  dist/commonjs/i18next.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-04 18:15:38 +0000     1933 byte  dist/commonjs/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-04 18:15:38 +0000     2535 byte  dist/commonjs/logger.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-04 18:15:38 +0000      516 byte  dist/commonjs/postProcessor.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-04 18:15:38 +0000     2700 byte  dist/commonjs/utils.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-04 18:15:38 +0000    11404 byte  dist/es/BackendConnector.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-04 18:15:38 +0000     3412 byte  dist/es/CacheConnector.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-04 18:15:38 +0000     1571 byte  dist/es/EventEmitter.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-04 18:15:38 +0000     5870 byte  dist/es/Interpolator.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-04 18:15:38 +0000     4543 byte  dist/es/LanguageUtils.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-04 18:15:38 +0000     6599 byte  dist/es/PluralResolver.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-04 18:15:38 +0000     5437 byte  dist/es/ResourceStore.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-04 18:15:38 +0000    12870 byte  dist/es/Translator.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-04 18:15:38 +0000     4552 byte  dist/es/compatibility/v1.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-04 18:15:38 +0000     2586 byte  dist/es/defaults.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-04 18:15:38 +0000    13259 byte  dist/es/i18next.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-04 18:15:38 +0000      890 byte  dist/es/index.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-04 18:15:38 +0000     2451 byte  dist/es/logger.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-04 18:15:38 +0000      433 byte  dist/es/postProcessor.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-04 18:15:38 +0000     2446 byte  dist/es/utils.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-04 18:15:38 +0000    68612 byte  dist/umd/i18next.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-04 18:15:38 +0000    35879 byte  dist/umd/i18next.min.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-04 18:15:38 +0000    68612 byte  i18next.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-04 18:15:38 +0000    35879 byte  i18next.min.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-04 18:15:38 +0000       62 byte  index.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-04 18:15:38 +0000      928 byte  karma.backward.conf.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-04 18:15:38 +0000     5138 byte  package.json</tspan>
+<tspan x="10" y="682"> 41.  2017-04-04 18:15:38 +0000      904 byte  rollup.config.js</tspan>
+</text>
+</svg>

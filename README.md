@@ -1,9 +1,14 @@
-# api documentation for  [i18next (v7.1.3)](http://i18next.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-i18next.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-i18next) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-i18next.svg)](https://travis-ci.org/npmdoc/node-npmdoc-i18next)
+# npmdoc-i18next
+
+#### api documentation for  [i18next (v7.2.3)](http://i18next.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-i18next.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-i18next) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-i18next.svg)](https://travis-ci.org/npmdoc/node-npmdoc-i18next)
+
 #### i18next internationalization framework
 
-[![NPM](https://nodei.co/npm/i18next.png?downloads=true)](https://www.npmjs.com/package/i18next)
+[![NPM](https://nodei.co/npm/i18next.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/i18next)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-i18next/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-i18next_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-i18next/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-i18next/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-i18next/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-i18next/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-i18next/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-i18next/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Jan Mühlemann",
-        "email": "jan.muehlemann@gmail.com",
         "url": "https://github.com/jamuhl"
     },
     "bugs": {
@@ -77,10 +81,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "4548579502d85fac1de5e646a0bbb85e6cc732e1",
-        "tarball": "https://registry.npmjs.org/i18next/-/i18next-7.1.3.tgz"
+        "shasum": "a6c220ac1c8240ff1078aa9bc997fd449e052dc7",
+        "tarball": "https://registry.npmjs.org/i18next/-/i18next-7.2.3.tgz"
     },
-    "gitHead": "8fd7fcd59b78f143e87e1dbcfadfab2f7b355c2d",
+    "gitHead": "ca1a16f541d6be9cdb77b0b2d393b0ec4e6e38e6",
     "homepage": "http://i18next.com",
     "jsnext:main": "dist/es/index.js",
     "keywords": [
@@ -97,18 +101,15 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "adrai",
-            "email": "adriano@raiano.ch"
+            "name": "adrai"
         },
         {
-            "name": "jamuhl",
-            "email": "jan.muehlemann@gmail.com"
+            "name": "jamuhl"
         }
     ],
     "module": "dist/es/index.js",
     "name": "i18next",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/i18next/i18next.git"
@@ -130,24 +131,9 @@
         "test:compat": "karma start karma.backward.conf.js --singleRun",
         "test:new": "karma start karma.conf.js --singleRun"
     },
-    "version": "7.1.3"
+    "version": "7.2.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module i18next](#apidoc.module.i18next)
-1.  object <span class="apidocSignatureSpan">i18next.</span>logger
-1.  object <span class="apidocSignatureSpan">i18next.</span>modules
-1.  object <span class="apidocSignatureSpan">i18next.</span>observers
-1.  object <span class="apidocSignatureSpan">i18next.</span>options
-1.  object <span class="apidocSignatureSpan">i18next.</span>services
-
-
-
-# <a name="apidoc.module.i18next"></a>[module i18next](#apidoc.module.i18next)
 
 
 
